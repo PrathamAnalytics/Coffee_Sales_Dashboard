@@ -1,4 +1,4 @@
-# ***Coffee_Sales_Dashboard***
+# ***Coffee Sales Dashboard***
 
 ![logo](logo.avif)
 
