@@ -1,6 +1,6 @@
 # ***Coffee Sales Dashboard***
 
-![logo](logo.avif)
+![logo](pic.png)
 
 # ***Overview***
 This project presents an interactive Excel Dashboard for analyzing coffee sales data. The dashboard provides insights into sales trends, customer preferences, and product performance using charts, pivot tables, and key performance metrics.
